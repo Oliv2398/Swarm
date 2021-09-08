@@ -1,6 +1,6 @@
 # Satellite swarm
 
-
+Propagation of a 48 satellites swarm over 1 year around the Moon with the verlet algorithm.
 
 ![relat_init](figures/relat_init.png)
 
