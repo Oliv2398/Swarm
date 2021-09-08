@@ -6,5 +6,4 @@
 
 
 
-<video src="/figures/trajs_p2_n48_ref_lune.mp4"></video>
-
+![trajs_p2_n48_ref_lune](/figures/trajs_p2_n48_ref_lune.gif)
